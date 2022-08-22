@@ -1,7 +1,7 @@
 # UFOs
 ## Overview 
 
-The purpose of this analysis was to create a searchable table using JavaScript to filter information regarding UFO sightings.  The sightings data included the date of the sighting, the location (city,, state, and country), the shape of the object, the duration of the event, and related comments.  Code was written in JavaScript to compile the information, create filters, and save the results.  HTML code was also created so that users could filter the data on five variables (the date, city, state, country, and object shape) and display the results in a table.
+The purpose of this analysis was to create a searchable table using JavaScript to filter information regarding UFO sightings.  The sightings data included the date of the sighting, the location (city, state, and country), the shape of the object, the duration of the event, and related comments.  Code was written in JavaScript to compile the information, create filters, and save the results.  HTML code was also created so that users could filter the data on five variables (the date, city, state, country, and object shape) and display the results in a table.
 
 ## Results
 
