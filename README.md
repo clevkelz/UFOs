@@ -43,5 +43,5 @@ Although the data can be filtered, it is much more difficult to obtain results w
 
 ### Recommendations for Future Development
 -	Expand the time frame in which to draw results.  If the purpose of the page is to demonstrate whether UFOs exist, having a short time can limit the results.
--	Incorporate results from other areas of the world.  All of the results are from the United States.  Although it could make data formatting more challenging if results are captured in different formats, having a more global view can strengthen the quality of the information.
+-	Incorporate results from other areas of the world.  All of the results are from the United States.  Although it could make data formatting more challenging if the information is captured in different formats, having a more global view can strengthen the quality of the tool
 
